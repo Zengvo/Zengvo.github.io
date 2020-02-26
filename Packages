@@ -26,3 +26,19 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.flentixd.tut.deb
+Size: 3562
+MD5sum: e6acb21785775ac0eac08feb21f67bf9
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: Old Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+
+
+
