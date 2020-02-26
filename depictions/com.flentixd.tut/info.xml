@@ -1,0 +1,24 @@
+<package>
+	<id>com.flentixd.tut</id>
+	<name>Tutorial</name>
+	<version>0.0.1-4</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>7.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This is a Tutorial</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+  		<version>0.0.1-4</version>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
